@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "map.php",
+			"settings":
+			{
+				"buffer_size": 1761,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/cam/functions.php",
+		"/C/xampp/htdocs/cam/config.php",
+		"/C/xampp/htdocs/cam/member_info-form.php",
+		"/C/xampp/htdocs/cam/member_info.php",
+		"/C/xampp/htdocs/cam/database.php",
+		"/C/xampp/htdocs/cam/process.php",
+		"/C/xampp/htdocs/cam/contact.php",
+		"/C/xampp/htdocs/cam/about.php",
+		"/C/xampp/htdocs/cam/member_home_page.php",
+		"/C/xampp/htdocs/cam/product.php",
+		"/C/xampp/htdocs/cam/main.css",
+		"/C/xampp/htdocs/cam/specials.php",
+		"/C/xampp/htdocs/cam/index.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/index.html",
+		"/C/xampp/htdocs/r6.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/neo.php",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/Matrix.php",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/index.php",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/index.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r4.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/js/query.js",
+		"/C/Users/flair_000/Google Drive/Websites/javascript sliderss/index.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/girls_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/crowd_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/contact.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/boys_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/behind_scenes_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/after_party_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/acts_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r3.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r2.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/meet_greet_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/legal.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r5.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r6.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/r7.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/show_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/staff_gallery.html",
+		"/C/Users/flair_000/Google Drive/Websites/Estate Project/estate1.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/css/main.css",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/jquery-ui-1.12.1/index.html",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/jquery-ui-1.12.1/AUTHORS.txt",
+		"/C/xampp/htdocs/nav.php",
+		"/C/Users/flair_000/Google Drive/Websites/javascript sliderss/prsGame.js",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/contact.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/test.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/js/revue.js",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/stoner.js",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/css/main.css",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/form_script.php",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/php/install.txt",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/php/snapshot.txt",
+		"/C/Users/flair_000/Google Drive/Websites/My Project Revue/revue.js",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/careers.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/contributers.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/advertise.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/mission.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/company.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/stoner.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/reviews_hemp.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/spotlights_hemp.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/features_hemp.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/reviews_grow.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/spotlights_grow.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/features_grow.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/your_health.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/reviews_farmacy.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/spotlights_farmacy.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/features_farmacy.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/product.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/smoking_devices.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/glass_art.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/leaf_liquor.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/cannabis.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/cana_chef.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/how_to.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/lifestyle.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/lifestyles.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/rehash.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/calendar.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/laws_leg.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/local_news.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/subscribe.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/find_mag.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/latest_issues.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/cover_stories.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/main.css",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/hemp.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/farmacy.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/contact.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/grow.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/about.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/reviews.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/spotlights.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/events.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/news.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/magazine.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/features.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/stoner2.html",
+		"/C/Users/flair_000/Google Drive/Websites/Stoner/stoner1.html",
+		"/C/Users/flair_000/Desktop/sierrah/code_res.html",
+		"/C/Users/flair_000/Desktop/sierrah resume/graphic_code_resume.html",
+		"/C/Users/flair_000/Google Drive/Notebooks/index.html",
+		"/C/Users/flair_000/Google Drive/Notebooks/main.css",
+		"/C/Users/flair_000/Google Drive/Notebooks/Sierra.html",
+		"/C/Users/flair_000/Google Drive/Websites/Project Revue!.zip",
+		"/C/Users/flair_000/Google Drive/Websites/Bar Res/My Project Revue/index.html",
+		"/C/Users/flair_000/Google Drive/Websites/Bar Res/My Project Revue/r2.html",
+		"/C/Users/flair_000/Google Drive/Websites/Bar Res/My Project Revue/css/main.css",
+		"/C/Users/flair_000/Google Drive/Websites/Estate Project/estate.css"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"js",
+			"5vw",
+			": ",
+			"\t\n",
+			"\">\n",
+			"10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "map.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hunt.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
